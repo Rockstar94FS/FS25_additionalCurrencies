@@ -1,3 +1,5 @@
+# FS25_additionalCurrencies
+
 Mod that adds new currencies, not originally available in the game: Brazilian Real, Chinese Yuan, Czech Koruna, Hungarian Forint, Japanese Yen, Norwegian Krone, Polish Zloty, Romanian Leu, Russian Ruble, South Korean Won, Swiss Franc, Turkish Lira, Ukrainian Hryvnia.
 
 ModHub: https://www.farming-simulator.com/mod.php?mod_id=307219&title=fs2025

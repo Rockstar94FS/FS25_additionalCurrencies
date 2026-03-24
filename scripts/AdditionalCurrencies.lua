@@ -50,12 +50,12 @@ function AdditionalCurrencies:new(missionInfo)
 
 	pageSettings.optionMapping[multiMoneyUnit] = nil
 
-	AdditionalCurrenciesUtil.appendedFunction(pageSettings, "onFrameOpen", self, "pageSettings_onFrameOpen")
-	AdditionalCurrenciesUtil.appendedFunction(pageSettings, "onFrameClose", self, "pageSettings_onFrameClose")
+	AdditionalCurrenciesUtil.appendedFunction(InGameMenuSettingsFrame, "onFrameOpen", self, "pageSettings_onFrameOpen")
+	AdditionalCurrenciesUtil.appendedFunction(InGameMenuSettingsFrame, "onFrameClose", self, "pageSettings_onFrameClose")
 	AdditionalCurrenciesUtil.appendedFunction(FSCareerMissionInfo, "saveToXMLFile", self, "missionInfo_saveToXMLFile")
 	AdditionalCurrenciesUtil.overwrittenFunction(g_env_i18n, "getCurrencySymbol", self, "i18n_getCurrencySymbol", false)
 	AdditionalCurrenciesUtil.overwrittenFunction(g_env_i18n, "formatMoney", self, "i18n_formatMoney", false)
-	AdditionalCurrenciesUtil.overwrittenFunction(gameInfoDisplay, "draw", self, "gameInfoDisplay_draw", false)
+	AdditionalCurrenciesUtil.overwrittenFunction(GameInfoDisplay, "draw", self, "gameInfoDisplay_draw", false)
 
 	local state, converter = self:loadCurrencySettingsFromXMLFile(g_gameSettings:getValue(GameSettings.SETTING.MONEY_UNIT), true)
 

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<modDesc descVersion="96">
+<modDesc descVersion="107">
 	<author>Rockstar</author>
 
-	<version>1.0.0.1</version>
+	<version>1.0.0.2</version>
 
 	<title>
 		<en>Additional Currencies</en>
@@ -18,31 +18,46 @@
 
 Changelog 1.0.0.1:
 - Fixed problem with positioning of HUD elements,
-- Added Ukrainian translation (thanks garik_59).]]></en>
+- Added Ukrainian translation (thanks garik_59).
+
+Changelog 1.0.0.2:
+- Fixed conflict with Vredo Pack DLC.]]></en>
 		<de>
 			<![CDATA[Ein Mod, der neue Währungen hinzufügt, die ursprünglich nicht im Spiel verfügbar sind: Brasilianischer Real, Chinesische Yuan, Tschechische Krone, Ungarischer Forint, Japanischer Yen, Norwegische Krone, Polnischer Zloty, Rumänischer Leu, Russischer Rubel, Südkoreanischer Won, Schweizerfranken, Türkische Lira, Ukrainische Griwna.
 
 Changelog 1.0.0.1:
 - Problem mit der Positionierung von HUD-Elementen behoben,
-- Ukrainische Übersetzung hinzugefügt (danke garik_59).]]></de>
+- Ukrainische Übersetzung hinzugefügt (danke garik_59).
+
+Changelog 1.0.0.2:
+- Konflikt mit Vredo Pack DLC behoben.]]></de>
 		<fr>
 			<![CDATA[Mod qui ajoute de nouvelles devises, non disponibles à l'origine dans le jeu: Real brésilien, Le yuan chinois, Couronne tchèque, Forint hongrois, Yen japonais, Couronne norvégienne, Zloty polonais, Leu roumain, Rouble russe, Won sud-coréen, Franc suisse, Lire turque, Hryvnia ukrainienne.
 
 Changelog 1.0.0.1:
 - Correction d'un problème de positionnement des éléments du HUD,
-- Ajout de la traduction en ukrainien (merci garik_59).]]></fr>
+- Ajout de la traduction en ukrainien (merci garik_59).
+
+Changelog 1.0.0.2:
+- Correction d'un conflit avec le DLC Vredo Pack.]]></fr>
 		<pl>
 			<![CDATA[Mod dodający nowe waluty, niedostępne oryginalnie w grze: Real brazylijski, Juan chiński, Korona czeska, Forint węgierski, Jen japoński, Korona norweska, Polski złoty, Lej rumuński, Rubel rosyjski, Won południowokoreański, Frank szwajcarski, Lira turecka, Hrywna ukraińska.
 
 Changelog 1.0.0.1:
 - Naprawiono problem z pozycjonowaniem elementów HUD,
-- Dodano ukraińskie tłumaczenie (dzięki garik_59).]]></pl>
+- Dodano ukraińskie tłumaczenie (dzięki garik_59).
+
+Changelog 1.0.0.2:
+- Naprawiono konflikt z Vredo Pack DLC.]]></pl>
 		<uk>
 			<![CDATA[Мод додає нові валюти, які не доступні в оригінальній грі: Бразильский реал, Китайский юань, Чеська крона, Угорський форинт, Японська єна, Норвежська крона, Польський злотий, Румунський лей, Російський рубль, Південнокорейський вон, Швейцарський франк, Турецька ліра, Українська гривня.
 
 Changelog 1.0.0.1:
 - Виправлено проблему з позиціонуванням елементів HUD,
-- Додано український переклад (дякуємо garik_59).]]></uk>
+- Додано український переклад (дякуємо garik_59).
+
+Changelog 1.0.0.2:
+- Виправлений конфлікт із Vredo Pack DLC.]]></uk>
 	</description>
 
 	<iconFilename>icon_additionalCurrencies.png</iconFilename>
